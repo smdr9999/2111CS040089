@@ -1,0 +1,13 @@
+/* src/styles.css */
+body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .container {
+    padding: 20px;
+  }
+  
+  .card {
+    margin: 10px;
+  }
+  
